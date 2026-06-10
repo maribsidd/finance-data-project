@@ -1,8 +1,5 @@
 # 📈 Real-World Finance Data Project — Stock Market Analysis
 
-> **Internship Task 4** | Due: 29 Jun 2026  
-> Domain: **Finance** | Skills: OHLCV Analysis · Technical Indicators · ML Prediction · Financial Reporting
-
 ---
 
 ## 📌 Project Overview
@@ -136,4 +133,4 @@ python main.py
 
 ## 👤 Author
 
-**[Your Name]** | Learning Intern | June 2026
+**Mohd Marib**
